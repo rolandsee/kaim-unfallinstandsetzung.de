@@ -933,6 +933,7 @@ section,
 .featured-services .service-item h4 a {
   color: var(--heading-color);
   transition: ease-in-out 0.3s;
+  cursor: default
 }
 
 .featured-services .service-item p {
@@ -942,7 +943,7 @@ section,
   transition: ease-in-out 0.3s;
 }
 
-.featured-services .service-item:hover h4 a,
+/* .featured-services .service-item:hover h4 a,
 .featured-services .service-item:hover .icon i,
 .featured-services .service-item:hover p {
   color: var(--contrast-color);
@@ -952,7 +953,7 @@ section,
   background: var(--accent-color);
   inset: 0;
   border-radius: 0px;
-}
+} */
 
 /*--------------------------------------------------------------
 # About Section
